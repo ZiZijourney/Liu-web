@@ -4,7 +4,7 @@ title: Home
 
 # Jianbo Liu Labataory 
 
-[Lab Website Template]Our research focuses on using various instrumental analysis approaches (e.g.,  mass spectrometry, spectroscopy, and ion-molecule reactions) to probe biologically relevant processes in a spectrum of systems ranging from isolated biomolecules, through micelles and aerosols containing biomolecules, to biomolecule solution.
+Our research focuses on using various instrumental analysis approaches (e.g.,  mass spectrometry, spectroscopy, and ion-molecule reactions) to probe biologically relevant processes in a spectrum of systems ranging from isolated biomolecules, through micelles and aerosols containing biomolecules, to biomolecule solution.
 {:.center}
 
 {% include section.html full=true %}
