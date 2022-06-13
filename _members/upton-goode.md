@@ -1,5 +1,5 @@
 ---
-name: Upton O. Goode
+name: Dr.Jianbo Liu
 image: images/member.jpg
 description: Professor and Chair
 role: Professor and Chair
