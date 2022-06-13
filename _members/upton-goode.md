@@ -1,16 +1,13 @@
 ---
 name: Upton O. Goode
 image: images/member.jpg
-description: Bone Investigator
-role: pi
+description: Professor and Chair
+role: Professor and Chair
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - Dr. Jianbo Liu
+
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  email: Jianbo.Liu@qc.cuny.edu
 ---
 
 Upton is a good dog.
