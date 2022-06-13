@@ -7,10 +7,9 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our research focuses on using various instrumental analysis approaches (e.g.,  mass spectrometry, spectroscopy, and ion-molecule reactions) to probe biologically relevant processes in a spectrum of systems ranging from isolated biomolecules, through micelles and aerosols containing biomolecules, to biomolecule solution.
+
+We are also interested in discovering and developing new analytical approaches.  In addition, we have interests in computational chemistry (e.g. quasi-classical direct dynamics trajectory simulations) and nano-materials.
 
 {% include section.html %}
 
